@@ -1,0 +1,14 @@
+{
+    "Common Cold": {
+        "symptoms": ["cough", "sore throat", "runny nose"],
+        "precautions": ["Rest", "Drink warm fluids", "Use a humidifier"],
+        "medications": ["Paracetamol", "Cough syrup"],
+        "stress_relief": ["Meditation", "Listening to soothing music"]
+    },
+    "Migraine": {
+        "symptoms": ["headache", "nausea", "sensitivity to light"],
+        "precautions": ["Rest in a dark room", "Avoid triggers", "Manage stress"],
+        "medications": ["Ibuprofen", "Triptans"],
+        "stress_relief": ["Deep breathing", "Yoga"]
+    }
+}
